@@ -1,3 +1,6 @@
 Now I'm adding to it, what am I doing? I don't think I was paying attention closely enough.
 
+THIS IS AN ADDED LINE
+hello
+
 This is a test file. I'm going to add it then edit it then rename it.
